@@ -92,10 +92,7 @@
     line-height: 30px;
     color:#333;
 }
-
-
-@media only screen and (min-width:500px){
-	.timings{
+.timings{
     width:80%;
     height: auto;
     background-color: #fff;
@@ -228,4 +225,3 @@
         width:auto;
 
     }
-}
