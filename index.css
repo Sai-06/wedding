@@ -215,7 +215,7 @@ footer i{
         display:flex;
         height:80px;
         width:100%;
-        background: rgba(255,200,200,.7);
+        background:#00;
         align-items: center;
         justify-content:space-between;
         padding:0 50px 0 100px;
